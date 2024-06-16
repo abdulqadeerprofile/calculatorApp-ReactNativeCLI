@@ -1,3 +1,7 @@
+
+<img width="270" alt="23" src="https://github.com/abdulqadeerprofile/calculatorApp-ReactNativeCLI/assets/160056809/a4b39bc9-422c-47cf-91ee-12dadad5ca03">
+<img width="269" alt="Capture" src="https://github.com/abdulqadeerprofile/calculatorApp-ReactNativeCLI/assets/160056809/91f49cda-b466-4d40-aca6-ae8cc8e62a3f">
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
